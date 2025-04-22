@@ -1,3 +1,5 @@
 ED This is my text file. I'm adding this.
 
 this is for the new feature.
+
+here's some more new stuff
